@@ -37,19 +37,6 @@ body {
   border-top: 1px solid black;
 }
 
-.menu-header {
-  font-size: 2em;
-  text-align: center;
-}
-
-.container-fluid h1 {
-  text-align: center;
-}
-
-.container-fluid h1 h2 {
-  text-align: center;
-}
-
 .container-fluid .row {
   margin: 10px;
   color: black;
