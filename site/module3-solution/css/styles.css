@@ -57,6 +57,7 @@ body {
 
 .item {
    background-color: yellow;
+   margin: 5px;
 }
 
 .item h2 {
